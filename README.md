@@ -71,3 +71,18 @@ chrome://extensions/
 - Resume matching
 - Application reminders
 - Advanced analytics
+## 📸 Screenshots
+
+### Chrome Extension
+
+![Extension](screenshots/extension.png)
+
+
+### TrainerDB Copilot Popup
+
+![Popup](screenshots/popup.png)
+
+
+### AI Analysis
+
+![Analysis](screenshots/analysis.png)
