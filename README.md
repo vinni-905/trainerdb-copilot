@@ -89,7 +89,7 @@ chrome://extensions/
 
 ### Application Status Tracker
 
-![Application Status](screenshots/application status.png)
+![Application Status](screenshots/application-status.png)
 ### Updated Copilot Dashboard
 
 ![Updated Popup](screenshots/popup2.png)
