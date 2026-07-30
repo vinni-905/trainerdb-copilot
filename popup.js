@@ -62,3 +62,16 @@ savedJob:true
 alert("⭐ Opportunity saved successfully!");
 
 };
+document.getElementById("updateStatus").onclick = () => {
+
+let status = document.getElementById("status").value;
+
+
+chrome.storage.local.set({
+applicationStatus: status
+});
+
+
+alert("Application status updated: " + status);
+
+};

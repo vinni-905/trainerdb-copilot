@@ -86,3 +86,8 @@ chrome://extensions/
 ### AI Analysis
 
 ![Analysis](screenshots/analysis.png)
+
+### Application Status Tracker
+
+![Application Status](screenshots/application-status.png)
+popup2.png
